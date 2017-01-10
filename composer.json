@@ -2,6 +2,7 @@
   "version": "1.0.0",
   "description": "This package contains a list of PHPUnit assertions for the Slim framework",
   "license": "Creative Commons Attribution 4.0 International Public License",
+  "keywords": ["Slim", "test", "PHPUnit"],
   "autoload": {
     "psr-4": {
       "dbeurive\\Slim\\": "src"
