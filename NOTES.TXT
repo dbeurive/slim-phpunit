@@ -1,4 +1,0 @@
-Create the artifact
-
-    zip -r dbeurive-slim-phpunit-1.0.0.zip src composer.json
-
